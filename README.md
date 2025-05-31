@@ -1,9 +1,5 @@
 <!-- BANNIÈRE -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/72324499?v=4" alt="Ibou Ka - Salesforce Developer"  />
-</p>
-
-<h1 align="center">Salut, moi c’est Ibou 👋</h1>
+<h1 align="center">Hi 👋, I'm Ibou KA</h1>
 <h3 align="center">Développeur Salesforce passionné par l'innovation et l'automatisation 🚀</h3>
 
 ---
@@ -12,7 +8,7 @@
 
 🎯 Je suis **Développeur Salesforce** chez Teranga Cloud Solutions, basé à **Thiès (Sénégal)**.  
 🎓 Diplômé d’un **Master en Statistiques et Informatique Décisionnelle**.  
-🛠️ J'ai dirigé avec succès des projets d’intégration, d’automatisation et de migration de données pour des clients comme **Air Sénégal**, **RUFSAC**, **SUEZ** ou **Neemba Group**.  
+🛠️ J'ai participé avec succès sur des projets personnalisation, d’intégration, d’automatisation et de migration de données pour des clients comme **Air Sénégal**, **RUFSAC**, **SUEZ** ou **Neemba Group**.  
 🤖 Passionné par **l’IA, les CRM intelligents, les API et l’analyse de données**.  
 📚 Je suis certifié :  
 &nbsp;&nbsp;&nbsp;&nbsp;🛡️ Salesforce Certified Administrator  
@@ -65,8 +61,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IbouKa&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbouKa&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
@@ -74,9 +70,7 @@
 ### 📫 Me contacter
 
 📍 **Thiès, Sénégal**  
-📧 [ibk2gallo@gmail.com](mailto:ibk2gallo@gmail.com)  
-📞 +221 77 800 02 25  
-🔗 [LinkedIn](https://linkedin.com/in/ibou-salesforce) *(à ajouter si disponible)*
+🔗 [LinkedIn](https://linkedin.com/in/ibouka) *(à ajouter si disponible)*
 
 ---
 
