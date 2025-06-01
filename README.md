@@ -1,5 +1,5 @@
 <!-- BANNIÈRE -->
-<h1 align="center">Hi 👋, I'm Ibou KA</h1>
+<h1 align="center">Bonjour👋, c'est Ibou KA</h1>
 <h3 align="center">Développeur Salesforce passionné par l'innovation et l'automatisation 🚀</h3>
 
 ---
@@ -70,7 +70,7 @@
 ### 📫 Me contacter
 
 📍 **Thiès, Sénégal**  
-🔗 [LinkedIn](https://linkedin.com/in/ibouka) *(à ajouter si disponible)*
+🔗 [LinkedIn](https://linkedin.com/in/ibou-ka) *(à ajouter si disponible)*
 
 ---
 
