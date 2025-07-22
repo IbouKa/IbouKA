@@ -1,10 +1,10 @@
 <!-- BANNIÈRE -->
-<h1 align="center">Bonjour👋, c'est Ibou KA</h1>
-<h3 align="center">Développeur Salesforce passionné par l'innovation et l'automatisation 🚀</h3>
+<h1 align="center">Bonjour, je suis Ibou KA</h1>
+<h3 align="center">Développeur Salesforce passionné par l'innovation et l'automatisation </h3>
 
 ---
 
-### 💡 À propos de moi
+###  À propos de moi
 
 Je suis **Développeur Salesforce** chez Teranga Cloud Solutions, basé à **Thiès (Sénégal)**.  
 Diplômé d’un **Master en Statistiques et Informatique Décisionnelle**.  
@@ -17,7 +17,7 @@ Je suis certifié :
 
 ---
 
-### 🧰 Compétences techniques
+###  Compétences techniques
 
 ####  Salesforce
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -50,15 +50,15 @@ Je suis certifié :
 
 ###  Projets récents
 
-- 🧠 **Neemba Group** – Agents CRM + Mobile, automatisation avancée, migration de données, reporting stratégique.
-- 🛫 **Air Sénégal** – Portail client, LWC interactif, web services.
-- 🏭 **RUFSAC** – Modélisation de données, intégration avec Talend Studio.
-- 💧 **SUEZ (Inetum)** – Migration Azure Data Factory, pipelines ETL robustes.
-- 🏥 **Siemens** – API Web pour la gestion hospitalière.
+-  **Neemba Group** – Agents CRM + Mobile, automatisation avancée, migration de données, reporting stratégique.
+-  **Air Sénégal** – Portail client, LWC interactif, web services.
+-  **RUFSAC** – Modélisation de données, intégration avec Talend Studio.
+-  **SUEZ (Inetum)** – Migration Azure Data Factory, pipelines ETL robustes.
+-  **Siemens** – API Web pour la gestion hospitalière.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IbouKa&show_icons=true&theme=github_dark" height="160" />
@@ -67,14 +67,14 @@ Je suis certifié :
 
 ---
 
-### 📫 Me contacter
+###  Me contacter
 
 📍 **Thiès, Sénégal**  
 🔗 [LinkedIn](https://linkedin.com/in/ibou-ka) *(à ajouter si disponible)*
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 
 > "Je transforme des défis métiers en solutions scalables… avec Flow, Apex et un bon café ☕."
 
