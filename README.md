@@ -1,12 +1,12 @@
 <!-- BANNIÈRE -->
 <h1 align="center">Bonjour, je suis Ibou KA</h1>
-<h3 align="center">Développeur Salesforce passionné par l'innovation et l'automatisation </h3>
+<h3 align="center">Développeur Informatique passionné par l'innovation et l'automatisation </h3>
 
 ---
 
 ###  À propos de moi
 
-Je suis **Développeur Salesforce** chez Teranga Cloud Solutions, basé à **Thiès (Sénégal)**.  
+Je suis **Développeur Salesforce / Mulesoft** chez Jasmine Conseil**.  
 Diplômé d’un **Master en Statistiques et Informatique Décisionnelle**.  
 J'ai participé avec succès sur des projets personnalisation, d’intégration, d’automatisation et de migration de données pour des clients comme **Air Sénégal**, **RUFSAC**, **SUEZ** ou **Neemba Group**.  
 Passionné par **l’IA, les CRM intelligents, les API et l’analyse de données**.  
@@ -69,7 +69,7 @@ Je suis certifié :
 
 ###  Me contacter
 
-📍 **Thiès, Sénégal**  
+📍 **Dakar, Sénégal**  
 🔗 [LinkedIn](https://linkedin.com/in/ibou-ka) *(à ajouter si disponible)*
 
 ---
