@@ -6,7 +6,7 @@
 
 ###  À propos de moi
 
-Je suis **Développeur Salesforce / Mulesoft** chez Jasmine Conseil**.  
+Je suis **Développeur Salesforce / Mulesoft chez **Jasmine Conseil**.  
 Diplômé d’un **Master en Statistiques et Informatique Décisionnelle**.  
 J'ai participé avec succès sur des projets personnalisation, d’intégration, d’automatisation et de migration de données pour des clients comme **Air Sénégal**, **RUFSAC**, **SUEZ** ou **Neemba Group**.  
 Passionné par **l’IA, les CRM intelligents, les API et l’analyse de données**.  
